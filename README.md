@@ -1,5 +1,6 @@
-# Kria Starter Kits Base Firmware
+<h1 align="center">KRIA SOM STARTER KIT BASE FIRMWARE</h1>
 
+## Introduction
 This repository contains base PL firmware files for the Kria Starter Kits.
 
 Supported Starter Kits:
