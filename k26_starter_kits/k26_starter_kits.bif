@@ -1,0 +1,4 @@
+all:
+{
+        [destination_device = pl] k26_starter_kits.bit
+}
