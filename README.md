@@ -5,6 +5,7 @@ This repository contains base PL firmware files for the Kria Starter Kits.
 
 Supported Starter Kits:
 1. K26
+2. K24
 
 Each set of firmware files consists of:
 1. PL bitstream binary
