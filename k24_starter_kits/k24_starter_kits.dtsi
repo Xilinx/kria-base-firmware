@@ -12,6 +12,6 @@
 &fpga_full {
 	#address-cells = <2>;
 	#size-cells = <2>;
-	firmware-name = "k24-starter-kits.bit.bin";
+	firmware-name = "k24_starter_kits.bit.bin";
 	resets = <&zynqmp_reset 116>, <&zynqmp_reset 117>, <&zynqmp_reset 118>, <&zynqmp_reset 119>;
 };
